@@ -1,7 +1,0 @@
----
-title: "Welcome to Ecology Lab"
----
-
-This site contains all class slides for this course. It will be updated often.
-
--   [Introduction Slides](Slides/Introduction.qmd)
