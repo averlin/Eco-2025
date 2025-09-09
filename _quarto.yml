@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  sidebar:
+    style: "docked"
+    search: true
+    contents: 
+      - text: "Home"
+        href: index.qmd
+      - section: "Slides"
+        href: Introduction.qmd
+        contents:
+          - Slides/Introduction.qmd
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+editor: visual
+
