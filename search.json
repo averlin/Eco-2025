@@ -123,7 +123,7 @@
     "href": "index.html",
     "title": "Welcome to Ecology Lab",
     "section": "",
-    "text": "This site contains all class slides for this course. It will be updated often.\n\nSeptember 10th\n\nIntroduction\nInsect Diversity"
+    "text": "This site contains all class slides for this course. It will be updated often.\n\nSeptember 10th\n\nIntroduction\nInsect Diversity\nInsect Diversity"
   },
   {
     "objectID": "Slides/Insect_div2.html#reminders-due-dates",
@@ -214,13 +214,13 @@
     "href": "Slides/Insect_div2.html#calculating-grass",
     "title": "Insect Diversity 2",
     "section": "Calculating Grass",
-    "text": "Calculating Grass\n\nGrass Abundance = % Grass * total number of all plants in that treatment\nUse “Grass” tab in the google sheet"
+    "text": "Calculating Grass\n\nGrass Abundance = % Grass * total number of all OTHER plants in that treatment\nUse “Grass” tab in the google sheet"
   },
   {
-    "objectID": "Slides/Insect_div2.html#todays-lab",
-    "href": "Slides/Insect_div2.html#todays-lab",
+    "objectID": "Slides/Insect_div2.html#todays-lab---identifying-insects",
+    "href": "Slides/Insect_div2.html#todays-lab---identifying-insects",
     "title": "Insect Diversity 2",
-    "section": "Today’s Lab",
-    "text": "Today’s Lab\n\nCount flour beetles\n\nRemember to count larva too!\n\nInsect Diversity lecture\nIdentify insects from last week\n\nUse “Arthropod Identification Key”\nCount tiny insects too!\nAsk me if you need help!! (:\n\nComplete analysis in excel sheet\n\nCreate a graph in excel showing plant diversity (x) vs. insect diversity (y)\n\nComplete “Insect Diversity Data Analysis Questions” before end of lab"
+    "section": "Today’s Lab - Identifying Insects",
+    "text": "Today’s Lab - Identifying Insects\n\nUse dichotomous key to identify Order and then morphospecies (species if you can!)\n\n\nEmpty 1 treatment vile at a time into a petri dish\nRemove and ID large insects first, put aside, record in google sheet\nUse the microscope to ID small insects, put aside + record as you go\n\n\nSome insects may be very small / transparent appearing due to discoloration, if you need help with them let me know!"
   }
 ]
