@@ -1,1 +1,6 @@
 /* css styles */
+
+.reset-scale {
+  font-size: 1em !important;
+  transform: scale(1) !important;
+}

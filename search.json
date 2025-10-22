@@ -1,213 +1,115 @@
 [
   {
-    "objectID": "Slides/Introduction.html#averie-st.germaine",
-    "href": "Slides/Introduction.html#averie-st.germaine",
-    "title": "Introduction",
-    "section": "Averie St.Germaine",
-    "text": "Averie St.Germaine\n\nAbout MeContact Info\n\n\n\n\n\n\n4th year PhD student in Mayra Vidal’s lab\nStudies the impact of climate change on species interactions\n\nHost plants, aphids, ants, parasitoids, AND predators\n\n\nI also:\n\nCreate art (insect photography, relief prints, knitting, watercolor, jewelry, anything really!)\nSnowboard\nWork at a movie theater (Brattle)\nLove going to shows (hardcore and metal mostly)\nLove playing with R!\n\n\n\n\n\n\n\n\n\n\n\n\nEmail: averie.stgermaine001@umb.edu\nOffice hours: Mondays 1-3 pm, ISC-5371\nI’m here to help you! PLEASE reach out with any questions or concerns."
+    "objectID": "Slides/Plant_competition.html#reminders",
+    "href": "Slides/Plant_competition.html#reminders",
+    "title": "Plant Competition",
+    "section": "Reminders",
+    "text": "Reminders\n\n10/29 - Insect diversity group presentation\n11/5 - Blue Hills lab report\n11/19 - Plant Competition report"
   },
   {
-    "objectID": "Slides/Introduction.html#who-are-you",
-    "href": "Slides/Introduction.html#who-are-you",
-    "title": "Introduction",
-    "section": "Who are you?",
-    "text": "Who are you?\n\n\n\nWhat is your preferred name and pronouns?\nWhat’s your year and major?\nWhy are you interested in ecology?\nWhat’s your favorite animal?"
+    "objectID": "Slides/Plant_competition.html#oral-presentations",
+    "href": "Slides/Plant_competition.html#oral-presentations",
+    "title": "Plant Competition",
+    "section": "Oral Presentations",
+    "text": "Oral Presentations\n\nIncorporate the feedback I give you into your presentation\nAsk me if you have questions!! (:\nShould include analysis of the data (R2 or t-test)"
   },
   {
-    "objectID": "Slides/Introduction.html#lab-expectations",
-    "href": "Slides/Introduction.html#lab-expectations",
-    "title": "Introduction",
-    "section": "Lab Expectations",
-    "text": "Lab Expectations\n\n\nAttendance is mandatory, there are no make-ups\nMust be on time to lab\n\nAfter 10 minutes you will get a 0 for participation\n\nWork must be submitted through Canvas\nABSOLUTELY NO FOOD OR DRINK IN LAB!\nUse of AI is prohibited\n\n\n\nIn case of emergency, contact me directly and send documentation to Dr. Vidal"
+    "objectID": "Slides/Plant_competition.html#blue-hills-data",
+    "href": "Slides/Plant_competition.html#blue-hills-data",
+    "title": "Plant Competition",
+    "section": "Blue Hills Data",
+    "text": "Blue Hills Data\nHow does the abundance and richness of native plants influence the abundance and richness of invasive plants?\nHow does the ratio of native to invasive vary across transects?\n\nAlpha diversity\nBeta diversity\nGamma diversity"
   },
   {
-    "objectID": "Slides/Introduction.html#the-syllabus",
-    "href": "Slides/Introduction.html#the-syllabus",
-    "title": "Introduction",
-    "section": "The Syllabus!",
-    "text": "The Syllabus!\n\nGradingDue Dates\n\n\n\n\n\nQuestions due at end of lab (4 pm)\nReports due day of lab, 11:59 pm\n\nI will not answer emails after 6 pm night of!\n\nLate assignments lose 10% automatically, then 10% for every additional day late\n\n\nLetter Grades\nA : 88% or higher\nA- : 80 to &lt;88\nB range : 70 to &lt;80%\nC range : 60 to &lt;70%\nD range : 50 to &lt;60%\nF : &lt;50%"
+    "objectID": "Slides/Plant_competition.html#alpha-diversity",
+    "href": "Slides/Plant_competition.html#alpha-diversity",
+    "title": "Plant Competition",
+    "section": "Alpha Diversity",
+    "text": "Alpha Diversity\n\nA measure of local species richness\nHow many different species are in a particular area"
   },
   {
-    "objectID": "Slides/Introduction.html#projects",
-    "href": "Slides/Introduction.html#projects",
-    "title": "Introduction",
-    "section": "Projects",
-    "text": "Projects\n\nPop. DynamicsBlue HillsInsect Div.Plant CompetitionProtozoa Div.\n\n\n\nWhat factors influence population size of Flour Beetles?\nEntire semester long project! Week 15 presentation!\n\n\n\n\n\nHow does the presence of invasive species impact plant diversity?\nWeeks 3, 4, and 7\n\n\n\n\n\n\n\n\n\n\n\nWhat species of insects are on campus? How diverse are they?\nWeeks 5, 6, and 9 (presentation)\n\n\n\n\n\nHow do the density and proportion of a species in a plot impact intraspecific competition?\nWeeks 8 and 10\n\n\n\n\n\nWhat affects community structure and species diversity?\nWeeks 11 and 12"
+    "objectID": "Slides/Plant_competition.html#beta-diversity",
+    "href": "Slides/Plant_competition.html#beta-diversity",
+    "title": "Plant Competition",
+    "section": "Beta Diversity",
+    "text": "Beta Diversity\n\nHow different or similar two communities are from each other\nComparing diversity between TRANSECTS here\nSorensen index = 1 - (2a / (2a + b + c))\n\na = # species found in both transects\nb = # species found only in transect 1\nc = # species found only in transect 2"
   },
   {
-    "objectID": "Slides/Introduction.html#important-information",
-    "href": "Slides/Introduction.html#important-information",
-    "title": "Introduction",
-    "section": "Important Information",
-    "text": "Important Information\n\nNext week we will have a guest lecture on invasive species\nField trip to Blue Hills on Sept. 24th\n\nCarpool sign-up sheet on Canvas\n\nReadings on Canvas under Blue Hills due BEFORE 9/24"
+    "objectID": "Slides/Plant_competition.html#beta-diversity-1",
+    "href": "Slides/Plant_competition.html#beta-diversity-1",
+    "title": "Plant Competition",
+    "section": "Beta Diversity",
+    "text": "Beta Diversity"
   },
   {
-    "objectID": "Slides/Introduction.html#todays-lab---population-dynamics",
-    "href": "Slides/Introduction.html#todays-lab---population-dynamics",
-    "title": "Introduction",
-    "section": "Today’s Lab - Population Dynamics!",
-    "text": "Today’s Lab - Population Dynamics!\n\nGet into 5 groups of 4 and 1 group of 3\n\nRemember, you will be working together all semester\n\nRead over Flour Beetle Lab Guide on Canvas with your group\nChoose which treatment your group will test (2 groups per treatment only!)\n\nFood quality, food quantity, OR initial population density\n\nComplete Project Development Guide and submit individually on Canvas\nCollect beetle data (to be done during every lab this semester)\n\nAsk Averie if hypothesis + experiment are okay\nCount adults and larvae (using dissection microscope) according to protocol outlined in the lab guide\nRecord data on your groups printed data sheet\n\nData sheet will be kept with beetles"
+    "objectID": "Slides/Plant_competition.html#gamma-diversity",
+    "href": "Slides/Plant_competition.html#gamma-diversity",
+    "title": "Plant Competition",
+    "section": "Gamma diversity",
+    "text": "Gamma diversity\n\nRegional diversity\nSpecies richness of ALL transects combined"
   },
   {
-    "objectID": "Slides/Insect_div1.html#due-dates",
-    "href": "Slides/Insect_div1.html#due-dates",
-    "title": "Insect Diversity",
-    "section": "Due Dates!",
-    "text": "Due Dates!\n\n(10/29) Insect Diversity group presentation\n\nReview “How to give a talk” and “Rubric for presentations” under information module\nWe will discuss more next week!"
+    "objectID": "Slides/Plant_competition.html#hypothesis-1",
+    "href": "Slides/Plant_competition.html#hypothesis-1",
+    "title": "Plant Competition",
+    "section": "Hypothesis 1",
+    "text": "Hypothesis 1\n\nInvasive plant abundance is negatively influenced by native plant diversity"
   },
   {
-    "objectID": "Slides/Insect_div1.html#would-it-be-helpful-to-have-canvas-modules-for-reports-presentations",
-    "href": "Slides/Insect_div1.html#would-it-be-helpful-to-have-canvas-modules-for-reports-presentations",
-    "title": "Insect Diversity",
-    "section": "Would it be helpful to have Canvas modules for reports + presentations?",
-    "text": "Would it be helpful to have Canvas modules for reports + presentations?"
+    "objectID": "Slides/Plant_competition.html#hypothesis-2",
+    "href": "Slides/Plant_competition.html#hypothesis-2",
+    "title": "Plant Competition",
+    "section": "Hypothesis 2",
+    "text": "Hypothesis 2\n\nInvasive plant richness is negatively influenced by native plant diversity"
   },
   {
-    "objectID": "Slides/Insect_div1.html#todays-lab",
-    "href": "Slides/Insect_div1.html#todays-lab",
-    "title": "Insect Diversity",
-    "section": "Today’s Lab",
-    "text": "Today’s Lab\n\nCount flour beetles\nEnter Blue Hills data with your group (link on Canvas)\nInsect Diversity Lecture\nPlan insect diversity experiments - Submit “Project development guide” on Canvas\nGo outside + set up experiment!"
+    "objectID": "Slides/Plant_competition.html#results",
+    "href": "Slides/Plant_competition.html#results",
+    "title": "Plant Competition",
+    "section": "Results",
+    "text": "Results\n\n\n\nAs native species abundance increased, invasive species abundance increased\nAs native species richness increased, invasive species richness increased\nBoth of these R2 = 0.17, suggesting this correlation is very weak (aka not significant)\nBoth transect 1 and 5 saw greater native abundance and richness\nTransects 2, 3, and 4 had greater abundance and richness of invasive"
   },
   {
-    "objectID": "Slides/Insect_div1.html#biological-diversity",
-    "href": "Slides/Insect_div1.html#biological-diversity",
-    "title": "Insect Diversity",
-    "section": "Biological Diversity",
-    "text": "Biological Diversity\n\n\n\nBiological diversity - Variation of life on Earth\n\nPresent in all levels of biological organization\n\nTwo main dimensions:\n\nInterspecific - Variation when comparing individuals of different species Ex. Femur length of a dog vs. a cat\nIntraspecific - Variation when comparing individuals of the same species Ex. Claw size of two male crabs"
+    "objectID": "Slides/Plant_competition.html#types-of-competition",
+    "href": "Slides/Plant_competition.html#types-of-competition",
+    "title": "Plant Competition",
+    "section": "Types of Competition",
+    "text": "Types of Competition\n\n\n\n\n\nIntraspecific - Competition between members of the same species\nInterspecific - Competition between members of differing species"
   },
   {
-    "objectID": "Slides/Insect_div1.html#why-does-diversity-matter",
-    "href": "Slides/Insect_div1.html#why-does-diversity-matter",
-    "title": "Insect Diversity",
-    "section": "Why Does Diversity Matter?",
-    "text": "Why Does Diversity Matter?\n\n\n\nEcosystem function\n\nUphold species interactions, pollination, + carbon cycle\n\nEcosystem services\n\nWater + agriculture\n\nEcosystem stability\n\nIf one species declines, others can fill it’s niche\n\nAll species are important, regardless of their usefulness to humans"
+    "objectID": "Slides/Plant_competition.html#competition-in-plants",
+    "href": "Slides/Plant_competition.html#competition-in-plants",
+    "title": "Plant Competition",
+    "section": "Competition in Plants",
+    "text": "Competition in Plants\n\nWhat might plants compete for?\nHow can we tell if plants are competing? What might see in a habitat?\nIf plants are in dense populations, would there be more or less competition?\nIf there are few resources available, would we see more or less competition?\nWhat makes one plant a better competitor than another?"
   },
   {
-    "objectID": "Slides/Insect_div1.html#how-do-we-measure-biodiversity",
-    "href": "Slides/Insect_div1.html#how-do-we-measure-biodiversity",
-    "title": "Insect Diversity",
-    "section": "How Do We Measure Biodiversity?",
-    "text": "How Do We Measure Biodiversity?\n\nAbundance - # individuals of a species in an area\nRichness - # of different species in an area\nEvenness - How common or rare a species is in an area"
+    "objectID": "Slides/Plant_competition.html#todays-lab---plant-competition",
+    "href": "Slides/Plant_competition.html#todays-lab---plant-competition",
+    "title": "Plant Competition",
+    "section": "Today’s Lab - Plant Competition",
+    "text": "Today’s Lab - Plant Competition\n\nHow does density impact intraspecific competition in alfalfa and in mustard?\n\nTest varying densities of each species individually\n\nHow does species abundance and density impact interspecific competition in alfalfa vs. mustard?\n\nTest varying amounts and ratios of alfalfa to mustard"
   },
   {
-    "objectID": "Slides/Insect_div1.html#how-do-we-measure-biodiversity-1",
-    "href": "Slides/Insect_div1.html#how-do-we-measure-biodiversity-1",
-    "title": "Insect Diversity",
-    "section": "How Do We Measure Biodiversity?",
-    "text": "How Do We Measure Biodiversity?\n\n\n\nWhat is the abundance of frogs in area 1?\n\n3\n\nWhat is the richness of area 3?\n\n3\n\nIn which area do frogs have the greatest evenness?\n\n1\n\nWhich area has the greatest richness?\n\nBOTH 1 and 3"
+    "objectID": "Slides/Plant_competition.html#todays-lab---intraspecific",
+    "href": "Slides/Plant_competition.html#todays-lab---intraspecific",
+    "title": "Plant Competition",
+    "section": "Today’s Lab - Intraspecific",
+    "text": "Today’s Lab - Intraspecific\n\nYou will plant varying amounts of seeds of both alfalfa and mustard in the same size pots\n\nFill 14 pots with soil, leave 1 inch\nLabel pots with tape and marker\n\nGroup name, alfalfa or mustard, # seeds\n\nCount out seeds (use scales to estimate amounts over 100)\n\n50, 100, 150, 200, 300, 400, and 800 (for both A and M seeds)\n\nSow seeds in soil, not too deep, spread evenly across the pot\n\nYou should have a total of 14 pots, 7 with alfalfa and 7 with mustard"
   },
   {
-    "objectID": "Slides/Insect_div1.html#how-do-we-measure-diversity",
-    "href": "Slides/Insect_div1.html#how-do-we-measure-diversity",
-    "title": "Insect Diversity",
-    "section": "How Do We Measure Diversity",
-    "text": "How Do We Measure Diversity\n\nShannon-Wiener Index\n\nH’ - Index of species diversity\nR - Species richness\npi - Proportion of R that species i makes up\nHigher H’ = greater diversity"
+    "objectID": "Slides/Plant_competition.html#todays-lab---interspecific",
+    "href": "Slides/Plant_competition.html#todays-lab---interspecific",
+    "title": "Plant Competition",
+    "section": "Today’s Lab - Interspecific",
+    "text": "Today’s Lab - Interspecific\n\nFill 6 pots with soil\nLabel with tape and marker\n\nGroup name, H or L, seed ratios (as in lab guide)\n\nPlant low density ratios:\n\n150A:50M\n100A:100M\n50A:150M\n\nPlant high density ratios\n\n300A:100M\n200A:200M\n100A:300M"
   },
   {
-    "objectID": "Slides/Insect_div1.html#todays-experiment",
-    "href": "Slides/Insect_div1.html#todays-experiment",
-    "title": "Insect Diversity",
-    "section": "Today’s Experiment",
-    "text": "Today’s Experiment\nIn 4 groups of 4 and 3 groups of 3…\n\nThink about how plant diversity/structural complexity might impact biodiversity metrics. Use the lab manual to help.\nDiscuss experimental design\n\nFollow instructions in lab manual\nDiscuss hypothesis + design experiment with group\nComplete project development guide\nMake signs + label bowls\nWait to go outside !"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to Ecology Lab",
-    "section": "",
-    "text": "This site contains all class slides for this course. It will be updated often.\n\nIntroduction\nInsect Diversity\nInsect Diversity\nData Analysis"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "Slides/Data_analysis.html#reminders-due-dates",
-    "href": "Slides/Data_analysis.html#reminders-due-dates",
-    "title": "Blue Hills Data analysis",
-    "section": "Reminders + Due Dates",
-    "text": "Reminders + Due Dates\n\nOctober 29th - Insect Diversity oral group presentation!\n\nOct. 22 - Draft due!\n\nNovember 5th - Blue Hills report due"
-  },
-  {
-    "objectID": "Slides/Data_analysis.html#relationships-in-data",
-    "href": "Slides/Data_analysis.html#relationships-in-data",
-    "title": "Blue Hills Data analysis",
-    "section": "Relationships in Data",
-    "text": "Relationships in Data\n\nWe want to know what the relationship is between our data\nWhat does the data tell us?"
-  },
-  {
-    "objectID": "Slides/Data_analysis.html#linear-models",
-    "href": "Slides/Data_analysis.html#linear-models",
-    "title": "Blue Hills Data analysis",
-    "section": "Linear Models",
-    "text": "Linear Models"
-  },
-  {
-    "objectID": "Slides/Data_analysis.html#linear-models-1",
-    "href": "Slides/Data_analysis.html#linear-models-1",
-    "title": "Blue Hills Data analysis",
-    "section": "Linear Models",
-    "text": "Linear Models\n\nHow do we know if a relationship is real?\n\nWe model the data!\n\nLets fit a line to the data (linear model)\n\nA linear model will never fit the data perfectly, but we can get the line of best fit with a regression\nR2 tells us how well the model fits the data"
-  },
-  {
-    "objectID": "Slides/Data_analysis.html#linear-models-2",
-    "href": "Slides/Data_analysis.html#linear-models-2",
-    "title": "Blue Hills Data analysis",
-    "section": "Linear Models",
-    "text": "Linear Models\n\n\nWhat relationship do you see?"
-  },
-  {
-    "objectID": "Slides/Data_analysis.html#linear-models-3",
-    "href": "Slides/Data_analysis.html#linear-models-3",
-    "title": "Blue Hills Data analysis",
-    "section": "Linear Models",
-    "text": "Linear Models\n\n\nDo you notice any groupings? What could they be?"
-  },
-  {
-    "objectID": "Slides/Data_analysis.html#linear-models-4",
-    "href": "Slides/Data_analysis.html#linear-models-4",
-    "title": "Blue Hills Data analysis",
-    "section": "Linear Models",
-    "text": "Linear Models"
-  },
-  {
-    "objectID": "Slides/Data_analysis.html#linear-models-5",
-    "href": "Slides/Data_analysis.html#linear-models-5",
-    "title": "Blue Hills Data analysis",
-    "section": "Linear Models",
-    "text": "Linear Models"
-  },
-  {
-    "objectID": "Slides/Data_analysis.html#linear-models-6",
-    "href": "Slides/Data_analysis.html#linear-models-6",
-    "title": "Blue Hills Data analysis",
-    "section": "Linear Models",
-    "text": "Linear Models"
-  },
-  {
-    "objectID": "Slides/Data_analysis.html#group-presentations-insect-diversity",
-    "href": "Slides/Data_analysis.html#group-presentations-insect-diversity",
-    "title": "Blue Hills Data analysis",
-    "section": "Group Presentations! (Insect Diversity)",
-    "text": "Group Presentations! (Insect Diversity)\n\nShould be about 10 minutes long\nInclude introduction, methods, results, and conclusions\n\nResults should be for your groups data AND the whole class\n\nRubric and guide on Canvas\nComplete first draft due Oct. 22nd, for feedback from me\nPresent in class on Oct. 29th!"
-  },
-  {
-    "objectID": "Slides/Data_analysis.html#lab-report-blue-hills",
-    "href": "Slides/Data_analysis.html#lab-report-blue-hills",
-    "title": "Blue Hills Data analysis",
-    "section": "Lab Report! (Blue Hills)",
-    "text": "Lab Report! (Blue Hills)\n\nUsing your group and the whole class’s Blue Hills data\nWrite a complete lab report on the Blue Hills experiment\n\nIntro, methods, results, discussion, and references\n\nGuides on Canvas\nDue Nov. 5th before lab!"
-  },
-  {
-    "objectID": "Slides/Data_analysis.html#todays-lab",
-    "href": "Slides/Data_analysis.html#todays-lab",
-    "title": "Blue Hills Data analysis",
-    "section": "Today’s Lab!",
-    "text": "Today’s Lab!\n\nCount flour beetles\nComplete “Blue Hills Data Analysis Guide”\n\nYes, do all the questions, you will need them!\nWork should be done individually\n\nComplete + turn in “Blue Hills Questions”\nGet with your Insect Diversity group and begin working on your presentation"
+    "objectID": "Slides/Plant_competition.html#todays-lab---interspecific-1",
+    "href": "Slides/Plant_competition.html#todays-lab---interspecific-1",
+    "title": "Plant Competition",
+    "section": "Today’s Lab - Interspecific",
+    "text": "Today’s Lab - Interspecific"
   },
   {
     "objectID": "Slides/Insect_div2.html#reminders-due-dates",
@@ -306,5 +208,215 @@
     "title": "Insect Diversity 2",
     "section": "Today’s Lab - Identifying Insects",
     "text": "Today’s Lab - Identifying Insects\n\nUse dichotomous key to identify Order and then morphospecies (species if you can!)\n\n\nEmpty 1 treatment vile at a time into a petri dish\nRemove and ID large insects first, put aside, record in google sheet\nUse the microscope to ID small insects, put aside + record as you go\n\n\nSome insects may be very small / transparent appearing due to discoloration, if you need help with them let me know!"
+  },
+  {
+    "objectID": "Slides/Data_analysis.html#reminders-due-dates",
+    "href": "Slides/Data_analysis.html#reminders-due-dates",
+    "title": "Blue Hills Data Analysis",
+    "section": "Reminders + Due Dates",
+    "text": "Reminders + Due Dates\n\nOctober 29th - Insect Diversity oral group presentation!\n\nOct. 22 - Draft due!\n\nNovember 5th - Blue Hills report due"
+  },
+  {
+    "objectID": "Slides/Data_analysis.html#relationships-in-data",
+    "href": "Slides/Data_analysis.html#relationships-in-data",
+    "title": "Blue Hills Data Analysis",
+    "section": "Relationships in Data",
+    "text": "Relationships in Data\n\nWe want to know what the relationship is between our data\nWhat does the data tell us?"
+  },
+  {
+    "objectID": "Slides/Data_analysis.html#linear-models",
+    "href": "Slides/Data_analysis.html#linear-models",
+    "title": "Blue Hills Data Analysis",
+    "section": "Linear Models",
+    "text": "Linear Models"
+  },
+  {
+    "objectID": "Slides/Data_analysis.html#linear-models-1",
+    "href": "Slides/Data_analysis.html#linear-models-1",
+    "title": "Blue Hills Data Analysis",
+    "section": "Linear Models",
+    "text": "Linear Models\n\nHow do we know if a relationship is real?\n\nWe model the data!\n\nLets fit a line to the data (linear model)\n\nA linear model will never fit the data perfectly, but we can get the line of best fit with a regression\nR2 tells us how well the model fits the data"
+  },
+  {
+    "objectID": "Slides/Data_analysis.html#linear-models-2",
+    "href": "Slides/Data_analysis.html#linear-models-2",
+    "title": "Blue Hills Data Analysis",
+    "section": "Linear Models",
+    "text": "Linear Models\n\n\nWhat relationship do you see?"
+  },
+  {
+    "objectID": "Slides/Data_analysis.html#linear-models-3",
+    "href": "Slides/Data_analysis.html#linear-models-3",
+    "title": "Blue Hills Data Analysis",
+    "section": "Linear Models",
+    "text": "Linear Models\n\n\nDo you notice any groupings? What could they be?"
+  },
+  {
+    "objectID": "Slides/Data_analysis.html#linear-models-4",
+    "href": "Slides/Data_analysis.html#linear-models-4",
+    "title": "Blue Hills Data Analysis",
+    "section": "Linear Models",
+    "text": "Linear Models"
+  },
+  {
+    "objectID": "Slides/Data_analysis.html#linear-models-5",
+    "href": "Slides/Data_analysis.html#linear-models-5",
+    "title": "Blue Hills Data Analysis",
+    "section": "Linear Models",
+    "text": "Linear Models"
+  },
+  {
+    "objectID": "Slides/Data_analysis.html#linear-models-6",
+    "href": "Slides/Data_analysis.html#linear-models-6",
+    "title": "Blue Hills Data Analysis",
+    "section": "Linear Models",
+    "text": "Linear Models"
+  },
+  {
+    "objectID": "Slides/Data_analysis.html#group-presentations-insect-diversity",
+    "href": "Slides/Data_analysis.html#group-presentations-insect-diversity",
+    "title": "Blue Hills Data Analysis",
+    "section": "Group Presentations! (Insect Diversity)",
+    "text": "Group Presentations! (Insect Diversity)\n\nShould be about 10 minutes long\nInclude introduction, methods, results, and conclusions\n\nResults should be for your groups data AND the whole class\n\nRubric and guide on Canvas\nComplete first draft due Oct. 22nd, for feedback from me\nPresent in class on Oct. 29th!"
+  },
+  {
+    "objectID": "Slides/Data_analysis.html#lab-report-blue-hills",
+    "href": "Slides/Data_analysis.html#lab-report-blue-hills",
+    "title": "Blue Hills Data Analysis",
+    "section": "Lab Report! (Blue Hills)",
+    "text": "Lab Report! (Blue Hills)\n\nUsing your group and the whole class’s Blue Hills data\nWrite a complete lab report on the Blue Hills experiment\n\nIntro, methods, results, discussion, and references\n\nGuides on Canvas\nDue Nov. 5th before lab!"
+  },
+  {
+    "objectID": "Slides/Data_analysis.html#todays-lab",
+    "href": "Slides/Data_analysis.html#todays-lab",
+    "title": "Blue Hills Data Analysis",
+    "section": "Today’s Lab!",
+    "text": "Today’s Lab!\n\nCount flour beetles\nComplete “Blue Hills Data Analysis Guide”\n\nYes, do all the questions, you will need them!\nWork should be done individually\n\nComplete + turn in “Blue Hills Questions”\nGet with your Insect Diversity group and begin working on your presentation"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to Ecology Lab",
+    "section": "",
+    "text": "This site contains all class slides for this course. It will be updated often.\n\nIntroduction\nInsect Diversity\nInsect Diversity\nData Analysis\nPlant Competition 1"
+  },
+  {
+    "objectID": "Slides/Insect_div1.html#due-dates",
+    "href": "Slides/Insect_div1.html#due-dates",
+    "title": "Insect Diversity",
+    "section": "Due Dates!",
+    "text": "Due Dates!\n\n(10/29) Insect Diversity group presentation\n\nReview “How to give a talk” and “Rubric for presentations” under information module\nWe will discuss more next week!"
+  },
+  {
+    "objectID": "Slides/Insect_div1.html#would-it-be-helpful-to-have-canvas-modules-for-reports-presentations",
+    "href": "Slides/Insect_div1.html#would-it-be-helpful-to-have-canvas-modules-for-reports-presentations",
+    "title": "Insect Diversity",
+    "section": "Would it be helpful to have Canvas modules for reports + presentations?",
+    "text": "Would it be helpful to have Canvas modules for reports + presentations?"
+  },
+  {
+    "objectID": "Slides/Insect_div1.html#todays-lab",
+    "href": "Slides/Insect_div1.html#todays-lab",
+    "title": "Insect Diversity",
+    "section": "Today’s Lab",
+    "text": "Today’s Lab\n\nCount flour beetles\nEnter Blue Hills data with your group (link on Canvas)\nInsect Diversity Lecture\nPlan insect diversity experiments - Submit “Project development guide” on Canvas\nGo outside + set up experiment!"
+  },
+  {
+    "objectID": "Slides/Insect_div1.html#biological-diversity",
+    "href": "Slides/Insect_div1.html#biological-diversity",
+    "title": "Insect Diversity",
+    "section": "Biological Diversity",
+    "text": "Biological Diversity\n\n\n\nBiological diversity - Variation of life on Earth\n\nPresent in all levels of biological organization\n\nTwo main dimensions:\n\nInterspecific - Variation when comparing individuals of different species Ex. Femur length of a dog vs. a cat\nIntraspecific - Variation when comparing individuals of the same species Ex. Claw size of two male crabs"
+  },
+  {
+    "objectID": "Slides/Insect_div1.html#why-does-diversity-matter",
+    "href": "Slides/Insect_div1.html#why-does-diversity-matter",
+    "title": "Insect Diversity",
+    "section": "Why Does Diversity Matter?",
+    "text": "Why Does Diversity Matter?\n\n\n\nEcosystem function\n\nUphold species interactions, pollination, + carbon cycle\n\nEcosystem services\n\nWater + agriculture\n\nEcosystem stability\n\nIf one species declines, others can fill it’s niche\n\nAll species are important, regardless of their usefulness to humans"
+  },
+  {
+    "objectID": "Slides/Insect_div1.html#how-do-we-measure-biodiversity",
+    "href": "Slides/Insect_div1.html#how-do-we-measure-biodiversity",
+    "title": "Insect Diversity",
+    "section": "How Do We Measure Biodiversity?",
+    "text": "How Do We Measure Biodiversity?\n\nAbundance - # individuals of a species in an area\nRichness - # of different species in an area\nEvenness - How common or rare a species is in an area"
+  },
+  {
+    "objectID": "Slides/Insect_div1.html#how-do-we-measure-biodiversity-1",
+    "href": "Slides/Insect_div1.html#how-do-we-measure-biodiversity-1",
+    "title": "Insect Diversity",
+    "section": "How Do We Measure Biodiversity?",
+    "text": "How Do We Measure Biodiversity?\n\n\n\nWhat is the abundance of frogs in area 1?\n\n3\n\nWhat is the richness of area 3?\n\n3\n\nIn which area do frogs have the greatest evenness?\n\n1\n\nWhich area has the greatest richness?\n\nBOTH 1 and 3"
+  },
+  {
+    "objectID": "Slides/Insect_div1.html#how-do-we-measure-diversity",
+    "href": "Slides/Insect_div1.html#how-do-we-measure-diversity",
+    "title": "Insect Diversity",
+    "section": "How Do We Measure Diversity",
+    "text": "How Do We Measure Diversity\n\nShannon-Wiener Index\n\nH’ - Index of species diversity\nR - Species richness\npi - Proportion of R that species i makes up\nHigher H’ = greater diversity"
+  },
+  {
+    "objectID": "Slides/Insect_div1.html#todays-experiment",
+    "href": "Slides/Insect_div1.html#todays-experiment",
+    "title": "Insect Diversity",
+    "section": "Today’s Experiment",
+    "text": "Today’s Experiment\nIn 4 groups of 4 and 3 groups of 3…\n\nThink about how plant diversity/structural complexity might impact biodiversity metrics. Use the lab manual to help.\nDiscuss experimental design\n\nFollow instructions in lab manual\nDiscuss hypothesis + design experiment with group\nComplete project development guide\nMake signs + label bowls\nWait to go outside !"
+  },
+  {
+    "objectID": "Slides/Introduction.html#averie-st.germaine",
+    "href": "Slides/Introduction.html#averie-st.germaine",
+    "title": "Introduction",
+    "section": "Averie St.Germaine",
+    "text": "Averie St.Germaine\n\nAbout MeContact Info\n\n\n\n\n\n\n4th year PhD student in Mayra Vidal’s lab\nStudies the impact of climate change on species interactions\n\nHost plants, aphids, ants, parasitoids, AND predators\n\n\nI also:\n\nCreate art (insect photography, relief prints, knitting, watercolor, jewelry, anything really!)\nSnowboard\nWork at a movie theater (Brattle)\nLove going to shows (hardcore and metal mostly)\nLove playing with R!\n\n\n\n\n\n\n\n\n\n\n\n\nEmail: averie.stgermaine001@umb.edu\nOffice hours: Mondays 1-3 pm, ISC-5371\nI’m here to help you! PLEASE reach out with any questions or concerns."
+  },
+  {
+    "objectID": "Slides/Introduction.html#who-are-you",
+    "href": "Slides/Introduction.html#who-are-you",
+    "title": "Introduction",
+    "section": "Who are you?",
+    "text": "Who are you?\n\n\n\nWhat is your preferred name and pronouns?\nWhat’s your year and major?\nWhy are you interested in ecology?\nWhat’s your favorite animal?"
+  },
+  {
+    "objectID": "Slides/Introduction.html#lab-expectations",
+    "href": "Slides/Introduction.html#lab-expectations",
+    "title": "Introduction",
+    "section": "Lab Expectations",
+    "text": "Lab Expectations\n\n\nAttendance is mandatory, there are no make-ups\nMust be on time to lab\n\nAfter 10 minutes you will get a 0 for participation\n\nWork must be submitted through Canvas\nABSOLUTELY NO FOOD OR DRINK IN LAB!\nUse of AI is prohibited\n\n\n\nIn case of emergency, contact me directly and send documentation to Dr. Vidal"
+  },
+  {
+    "objectID": "Slides/Introduction.html#the-syllabus",
+    "href": "Slides/Introduction.html#the-syllabus",
+    "title": "Introduction",
+    "section": "The Syllabus!",
+    "text": "The Syllabus!\n\nGradingDue Dates\n\n\n\n\n\nQuestions due at end of lab (4 pm)\nReports due day of lab, 11:59 pm\n\nI will not answer emails after 6 pm night of!\n\nLate assignments lose 10% automatically, then 10% for every additional day late\n\n\nLetter Grades\nA : 88% or higher\nA- : 80 to &lt;88\nB range : 70 to &lt;80%\nC range : 60 to &lt;70%\nD range : 50 to &lt;60%\nF : &lt;50%"
+  },
+  {
+    "objectID": "Slides/Introduction.html#projects",
+    "href": "Slides/Introduction.html#projects",
+    "title": "Introduction",
+    "section": "Projects",
+    "text": "Projects\n\nPop. DynamicsBlue HillsInsect Div.Plant CompetitionProtozoa Div.\n\n\n\nWhat factors influence population size of Flour Beetles?\nEntire semester long project! Week 15 presentation!\n\n\n\n\n\nHow does the presence of invasive species impact plant diversity?\nWeeks 3, 4, and 7\n\n\n\n\n\n\n\n\n\n\n\nWhat species of insects are on campus? How diverse are they?\nWeeks 5, 6, and 9 (presentation)\n\n\n\n\n\nHow do the density and proportion of a species in a plot impact intraspecific competition?\nWeeks 8 and 10\n\n\n\n\n\nWhat affects community structure and species diversity?\nWeeks 11 and 12"
+  },
+  {
+    "objectID": "Slides/Introduction.html#important-information",
+    "href": "Slides/Introduction.html#important-information",
+    "title": "Introduction",
+    "section": "Important Information",
+    "text": "Important Information\n\nNext week we will have a guest lecture on invasive species\nField trip to Blue Hills on Sept. 24th\n\nCarpool sign-up sheet on Canvas\n\nReadings on Canvas under Blue Hills due BEFORE 9/24"
+  },
+  {
+    "objectID": "Slides/Introduction.html#todays-lab---population-dynamics",
+    "href": "Slides/Introduction.html#todays-lab---population-dynamics",
+    "title": "Introduction",
+    "section": "Today’s Lab - Population Dynamics!",
+    "text": "Today’s Lab - Population Dynamics!\n\nGet into 5 groups of 4 and 1 group of 3\n\nRemember, you will be working together all semester\n\nRead over Flour Beetle Lab Guide on Canvas with your group\nChoose which treatment your group will test (2 groups per treatment only!)\n\nFood quality, food quantity, OR initial population density\n\nComplete Project Development Guide and submit individually on Canvas\nCollect beetle data (to be done during every lab this semester)\n\nAsk Averie if hypothesis + experiment are okay\nCount adults and larvae (using dissection microscope) according to protocol outlined in the lab guide\nRecord data on your groups printed data sheet\n\nData sheet will be kept with beetles"
   }
 ]

@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://averlin.github.io/Eco-2025/Slides/Introduction.html</loc>
-    <lastmod>2025-10-14T23:44:23.436Z</lastmod>
-  </url>
-  <url>
-    <loc>https://averlin.github.io/Eco-2025/Slides/Insect_div1.html</loc>
-    <lastmod>2025-10-14T23:44:20.390Z</lastmod>
-  </url>
-  <url>
-    <loc>https://averlin.github.io/Eco-2025/index.html</loc>
-    <lastmod>2025-10-14T23:44:07.277Z</lastmod>
-  </url>
-  <url>
-    <loc>https://averlin.github.io/Eco-2025/about.html</loc>
-    <lastmod>2025-10-14T23:44:06.389Z</lastmod>
-  </url>
-  <url>
-    <loc>https://averlin.github.io/Eco-2025/Data/Beetle_Populations.html</loc>
-    <lastmod>2025-10-14T23:44:06.733Z</lastmod>
-  </url>
-  <url>
-    <loc>https://averlin.github.io/Eco-2025/Slides/Data_analysis.html</loc>
-    <lastmod>2025-10-14T23:44:19.023Z</lastmod>
+    <loc>https://averlin.github.io/Eco-2025/Slides/Plant_competition.html</loc>
+    <lastmod>2025-10-22T03:16:39.035Z</lastmod>
   </url>
   <url>
     <loc>https://averlin.github.io/Eco-2025/Slides/Insect_div2.html</loc>
-    <lastmod>2025-10-14T23:44:21.927Z</lastmod>
+    <lastmod>2025-10-22T03:16:37.953Z</lastmod>
+  </url>
+  <url>
+    <loc>https://averlin.github.io/Eco-2025/Slides/Data_analysis.html</loc>
+    <lastmod>2025-10-22T03:16:37.024Z</lastmod>
+  </url>
+  <url>
+    <loc>https://averlin.github.io/Eco-2025/Data/Beetle_Populations.html</loc>
+    <lastmod>2025-10-22T03:16:32.187Z</lastmod>
+  </url>
+  <url>
+    <loc>https://averlin.github.io/Eco-2025/about.html</loc>
+    <lastmod>2025-10-22T03:16:31.866Z</lastmod>
+  </url>
+  <url>
+    <loc>https://averlin.github.io/Eco-2025/index.html</loc>
+    <lastmod>2025-10-22T03:16:32.534Z</lastmod>
+  </url>
+  <url>
+    <loc>https://averlin.github.io/Eco-2025/Slides/Insect_div1.html</loc>
+    <lastmod>2025-10-22T03:16:37.451Z</lastmod>
+  </url>
+  <url>
+    <loc>https://averlin.github.io/Eco-2025/Slides/Introduction.html</loc>
+    <lastmod>2025-10-22T03:16:38.501Z</lastmod>
   </url>
 </urlset>
